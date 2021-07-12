@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = j.ccarlos.j1989@gmail.com
+	name = José Carlos de Jesus
